@@ -1,0 +1,18 @@
+{
+  /*
+    tsconfig.json 是 ts 编译器的配置文件，ts编译器可以根据它的信息对代码进行翻译
+    "include" 指定需要编译的 ts 文件
+
+  */
+  // "compilerOptions": {
+  //   "modules": "commonjs",
+  //   "target": "es5",
+  //   "sourceMap": true
+  // },
+  // "exclude": [
+  //   "node_modules"
+  // ]
+  "include": [
+    "./src/**/*"
+  ]
+}
