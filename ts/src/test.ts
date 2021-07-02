@@ -1,3 +1,4 @@
-let t: string
-t = "test文件"
+let t: string = "test文件"
 console.log(t);
+let a:number = 123
+let b = 1
